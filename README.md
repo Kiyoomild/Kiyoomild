@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub 💗
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkZ2l2bjB6NTFmdTNjZnk4ZnJvMzFnNHY2amhhZGthNmN5bHd1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RE9krXX2HgbQjJCEst/giphy.gif" width="100"/>
